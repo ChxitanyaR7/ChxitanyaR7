@@ -1,12 +1,3 @@
-# 💫 About Me:
-👨‍💻 Web Developer | Tech Explorer  
-🌟 Building solutions that matter.  
-⚡ MERN stack.  
-💡 Always curious, always improving.  
-🚀 Turning ideas into reality.  
-🔧 Problem solver by nature.  
-🌐 Crafting seamless digital experiences.  
-📚 Lifelong student of technology.  
 
 ## 🌐 Socials:
  
@@ -60,15 +51,22 @@
 
 
   <!-- GIF beside Tech Stack -->
-  <div style="flex: 0.5;">
-    <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" height="400" alt="Tech Stack GIF" />
+ </div>
+
+  <!-- GIF beside Tech Stack -->
+  <div style="flex: 0.5; text-align: center;">
+    <img src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" height="400" alt="Tech Stack GIF" />
   </div>
+  
+</div>
   
 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChxitanyaR7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChxitanyaR7&theme=blue-green&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChxitanyaR7&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
